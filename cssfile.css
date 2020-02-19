@@ -9,12 +9,12 @@ body{
     background-image:url('icnMr5.jpg');
     background-attachment: fixed;
     /*background-size: 100% 100%;*/
-    color: rgba(69,69,69,1);
+    color: rgb(69,69,69);
     font-size: 20px;
 }
 
 #head1{
-    background-color: rgba(69,207,138,0.4);
+    background-color: rgba(69,207,138,0.3);
     text-align: center;
 }
 
