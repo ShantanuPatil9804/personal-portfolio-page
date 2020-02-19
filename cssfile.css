@@ -1,0 +1,26 @@
+*{
+    font-family: "Lucida Calligraphy";
+    margin: 2px;
+}
+
+body{
+    min-width: 500px;
+    background-color: rgba(69,207,69,0.85);
+    background-image:url('icnMr5.jpg');
+    background-attachment: fixed;
+    /*background-size: 100% 100%;*/
+    color: rgba(69,69,69,1);
+    font-size: 20px;
+}
+
+h1{
+    background-color: rgba(69,207,138,0.4);
+    text-align: center;
+}
+
+span.b {
+  display: inline;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+}
