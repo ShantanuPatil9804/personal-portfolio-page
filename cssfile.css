@@ -1,14 +1,14 @@
 *{
     font-family: "Lucida Calligraphy";
-    margin: 10px;
+    margin: auto;
     max-width: auto;
 }
 
 body{
     min-width: 500px;
-    background-color: rgba(69,207,69,0.7);
+    /*background-color: rgba(69,207,69,0.7);*/
     background-image:url('icnMr5.jpg');
-    background-attachment: fixed;
+    /*background-attachment: fixed;*/
     /*background-size: 100% 100%;*/
     color: rgb(69,69,69);
     font-size: 20px;
@@ -20,7 +20,7 @@ body{
     margin-top: 6px;
     margin-left: 50px;
     margin-right: 50px;
-    width: 100%;
+    width: 95%;
     height: 100%;
   }
 
@@ -31,7 +31,7 @@ body{
 
 .ib {
   display: inline;
-  min-width: 300px;
+  min-width: 250px;
   padding: 10px;
   margin: 10px;
 }
