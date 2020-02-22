@@ -1,31 +1,19 @@
 * {
-    font-family: Lucida Calligraphy;
-    min-width: auto;
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
     margin: auto;
 
   }
 
 body {
       min-width: 500px;
-      background-image:url('Trees_1920x1234.png');
-}
-
-.profileBody {
-    margin-top: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
-    width: 95%;
-    height: 100%;
-    color: #141269;
-    font-size: 20px;
+      background-color: #e0eeee;
   }
-
-
-#head1{
-    text-align: center;
-}
-
-span.ib {
-  display: inline;
-  min-width: 250px;
-}
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+  }
