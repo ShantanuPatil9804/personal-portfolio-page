@@ -1,34 +1,20 @@
-*{
-    font-family: "Lucida Calligraphy";
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
     margin: auto;
-    max-width: auto;
-}
 
-body{
+  }
 
-    background-color: rgba(69,207,69,0.7);
-    background-image:url('icnMr5.jpg');
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
 }
 
 .profileBody {
-    /*display: inline-block;
-    background-color: white;*/
-    min-width: 500px;
+    display: inline-block;
+    background-color: white;
     margin-top: 6px;
-    margin-left: 50px;
-    margin-right: 50px;
-    width: 95%;
-    height: 100%;
-    color: rgb(69,69,69);
-    font-size: 20px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
   }
-
-#head1{
-    background-color: rgba(69,207,138,0.3);
-    text-align: center;
-}
-
-span.ib {
-  display: inline;
-  min-width: 250px;
-}
